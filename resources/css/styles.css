@@ -1,3 +1,14 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
 h1 {
-  font: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nyc {
+  background-image: url("/Users/fordprefect/Documents/projects/broadway/resources/images/the-flatiron-building.png");
 }
